@@ -1,0 +1,15 @@
+/* Estilos específicos para WooCommerce */
+
+.woocommerce .products {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.woocommerce .products .product {
+    width: 30%;
+    margin: 1%;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+/* Estilos adicionales */
